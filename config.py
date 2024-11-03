@@ -77,20 +77,20 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+START_IMG_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
 
-PING_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+PING_IMG_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
 
-PLAYLIST_IMG_URL = "https://graph.org/file/763a841a2ad5cbb1e2fc5.jpg"
-STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
-TELEGRAM_VIDEO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
+STATS_IMG_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
+STREAM_IMG_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/b799e84b45f58abc286c9-0ff57e5fce7d6a8dd5.jpg"
 
 
 def time_to_seconds(time):
